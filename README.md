@@ -3,7 +3,7 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>NutriBalance Pro</title>
+<title>NutriBalance Salvador</title>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 <style>
@@ -700,9 +700,9 @@ body {
 <!-- FOOTER -->
 <footer class="footer">
   <div class="footer-content">
-    <div class="footer-logo">NutriBalance Pro</div>
+    <div class="footer-logo">NutriBalance Salvador</div>
     <p>Tu aliado en nutrición y salud integral. Herramientas profesionales para el cuidado nutricional personalizado.</p>
-    <div class="footer-copyright">© 2026 NutriBalance Pro. Todos los derechos reservados.</div>
+    <div class="footer-copyright">PROYECTO DE MODULO FELIZA MATEO</div>
   </div>
 </footer>
 
